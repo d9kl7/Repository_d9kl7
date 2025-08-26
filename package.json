@@ -1,0 +1,24 @@
+{
+  "name": "repository_d9kl7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d9kl7/Repository_d9kl7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d9kl7/Repository_d9kl7/issues"
+  },
+  "homepage": "https://github.com/d9kl7/Repository_d9kl7#readme",
+  "devDependencies": {
+    "eslint": "^9.34.0",
+    "jest": "^30.0.5"
+  }
+}
